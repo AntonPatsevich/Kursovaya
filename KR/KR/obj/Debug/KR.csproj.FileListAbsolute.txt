@@ -1,0 +1,17 @@
+c:\users\антон\documents\visual studio 2017\Projects\KR\KR\bin\Debug\KR.exe.config
+c:\users\антон\documents\visual studio 2017\Projects\KR\KR\bin\Debug\KR.exe
+c:\users\антон\documents\visual studio 2017\Projects\KR\KR\bin\Debug\KR.pdb
+c:\users\антон\documents\visual studio 2017\Projects\KR\KR\obj\Debug\KR.csprojResolveAssemblyReference.cache
+c:\users\антон\documents\visual studio 2017\Projects\KR\KR\obj\Debug\MainWindow.g.cs
+c:\users\антон\documents\visual studio 2017\Projects\KR\KR\obj\Debug\App.g.cs
+c:\users\антон\documents\visual studio 2017\Projects\KR\KR\obj\Debug\KR_MarkupCompile.cache
+c:\users\антон\documents\visual studio 2017\Projects\KR\KR\obj\Debug\KR_MarkupCompile.lref
+c:\users\антон\documents\visual studio 2017\Projects\KR\KR\obj\Debug\MainWindow.baml
+c:\users\антон\documents\visual studio 2017\Projects\KR\KR\obj\Debug\KR.g.resources
+c:\users\антон\documents\visual studio 2017\Projects\KR\KR\obj\Debug\KR.Properties.Resources.resources
+c:\users\антон\documents\visual studio 2017\Projects\KR\KR\obj\Debug\KR.csproj.GenerateResource.cache
+c:\users\антон\documents\visual studio 2017\Projects\KR\KR\obj\Debug\KR.csproj.CoreCompileInputs.cache
+c:\users\антон\documents\visual studio 2017\Projects\KR\KR\obj\Debug\KR.exe
+c:\users\антон\documents\visual studio 2017\Projects\KR\KR\obj\Debug\KR.pdb
+c:\users\антон\documents\visual studio 2017\Projects\KR\KR\obj\Debug\Window1.g.cs
+c:\users\антон\documents\visual studio 2017\Projects\KR\KR\obj\Debug\Window1.baml
